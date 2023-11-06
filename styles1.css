@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  background-color: #232D3F;
+  position: absolute;
+}
+.mains{
+  height: 320px;
+  width: 350px;
+  position: relative;
+   left: 550px;
+   top: 150px;
+   border-radius: 20px;
+   padding: 10px;
+     background-color: white;
+
+}
+svg{
+  position: relative;
+  left: 50px;
+}
+h1{
+  text-align: center;
+  justify-content: center;
+}
+button{
+  width: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #FF5B22;
+  text-align: center;
+  justify-content: center;
+  color: white;
+}
+.me{
+  text-align: center;
+}
