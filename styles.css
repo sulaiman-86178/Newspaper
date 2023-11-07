@@ -7,18 +7,23 @@ body{
   width: 900px;
   height: 500px;
   background-color: white;
+
   position: relative;
    left: 300px;
-   top: 150px;
+   /* bottom: 1px; */
+  top: 300px;
+
    padding: 10px;
   border-radius: 30px;
+
 
 
 }
 
 .container{
+
   display:flex;
-  gap:100px;
+  gap:50px;
   /* text-align: center; */
   font-weight: bolder;
   background-color: white;
