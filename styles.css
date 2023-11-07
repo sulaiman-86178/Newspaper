@@ -22,8 +22,8 @@ body{
   /* text-align: center; */
   font-weight: bolder;
   background-color: white;
-  /* text-align: center;
-  justify-content: center; */
+
+  justify-content: center;
 }
 .content{
   flex-direction: row;
