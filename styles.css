@@ -23,7 +23,7 @@ body{
   font-weight: bolder;
   background-color: white;
 
-  justify-content: center;
+  /* justify-content: center; */
 }
 .content{
   flex-direction: row;
